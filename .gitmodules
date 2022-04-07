@@ -1,0 +1,3 @@
+[submodule "pte"]
+	path = pte
+	url = https://github.com/dh7qc/Python-Text-Editor
